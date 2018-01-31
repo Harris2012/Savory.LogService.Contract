@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Savory.LogService.Contract</id>
+    <version>1.1.0</version>
+    <title>Savory.LogService.Contract</title>
+    <authors>Harris Zhang</authors>
+    <owners>Harris Zhang</owners>
+    <licenseUrl>https://www.savory.cn</licenseUrl>
+    <projectUrl>https://www.savory.cn</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/harriszhang14/Ranta/master/Ranta.Image/Icon/RantaIcon_150_150.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Savory.LogService.Contract</description>
+    <releaseNotes>Savory.LogService.Contract</releaseNotes>
+    <copyright>Copyright © Harris Zhang 2016</copyright>
+    <tags>Savory.LogService.Contract</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Runtime.Serialization" targetFramework="net40" />
+      <frameworkAssembly assemblyName="System.ServiceModel" targetFramework="net40" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="Savory.LogService.Contract.Net40\bin\Release\Savory.LogService.Contract.dll" target="lib\net40" />
+    <file src="Savory.LogService.Contract.Net40\bin\Release\Savory.LogService.Contract.xml" target="lib\net40" />
+    <file src="Savory.LogService.Contract.Net45\bin\Release\Savory.LogService.Contract.dll" target="lib\net45" />
+    <file src="Savory.LogService.Contract.Net45\bin\Release\Savory.LogService.Contract.xml" target="lib\net45" />
+  </files>
+</package>
